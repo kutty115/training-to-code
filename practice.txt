@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Line from FEATURE branch 
+=======
 Line from MAIN updated again 
+>>>>>>> 09b7113bc73b0a631d8d3949cb8519a483444ed2
